@@ -1,0 +1,18 @@
+.error {
+  color: rgb(207, 70, 70);
+}
+
+.success {
+  color: rgb(102, 197, 102);
+}
+
+.image-with-svg {
+  svg {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.theme-btn:disabled {
+  opacity: .7;
+}
